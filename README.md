@@ -1,25 +1,32 @@
-# 👋 Olá! Eu sou o Ruan Pablo
+# 👋 Olá, sou Ruan Pablo!
 
-### Sobre mim
-🏆 Apaixonado por tecnologia, resolução de problemas e aprendizado constante.  
-💻 Desenvolvedor especializado em Front-End e aplicações web interativas.  
-⚽ Nos momentos livres, sou fã de futebol e estratégias no **Soccer Manager 2025**!  
+Bem-vindo ao meu perfil do GitHub! 🚀 Aqui você encontrará projetos que mostram minha paixão por programação e tecnologia.
 
-### 🛠️ Habilidades
-- **Linguagens**: HTML, CSS, Java, JavaScript
-- **Frameworks**: React
-- **Ferramentas**: Git, VS Code, npm
-- Buscando sempre novas tecnologias para evoluir!  
+---
 
-### 🌟 Projetos em destaque
-- [Nome do Projeto 1](link): Pequena descrição do projeto.
-- [Nome do Projeto 2](link): Pequena descrição do projeto.
+## 🛠️ Tecnologias e Ferramentas
 
-### 🌐 Redes sociais
-- [LinkedIn](https://www.linkedin.com/in/ruanp23)  
-- [Twitter](https://twitter.com/seu_usuario)  
-- [Portfólio](https://www.seusite.com)  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
-### 📊 Estatísticas do GitHub
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=ruanp23&show_icons=true&theme=radical)  
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=ruanp23&layout=compact&theme=radical)
+---
+
+## 📊 Minhas Estatísticas no GitHub
+
+![Ruan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ruanp23&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ruanp23&layout=compact&theme=radical)
+
+---
+
+## 💡 Sobre mim
+
+- 🏆 Apaixonado por resolver problemas e criar soluções eficientes.
+- 🌱 Atualmente estudando **React** e aprofundando em **JavaScript**.
+- 📧 Entre em contato: **seuemail@dominio.com**
+
+---
+
+⭐️ **Não se esqueça de deixar uma estrela nos meus repositórios favoritos!**
