@@ -25,7 +25,7 @@ Bem-vindo ao meu perfil do GitHub! 🚀 Aqui você encontrará projetos que most
 
 - 🏆 Apaixonado por resolver problemas e criar soluções eficientes.
 - 🌱 Atualmente estudando **React** e aprofundando em **JavaScript**.
-- 📧 Entre em contato: **seuemail@dominio.com**
+- 📧 Entre em contato: **ruanzinho1985prs@gmail.com**
 
 ---
 
